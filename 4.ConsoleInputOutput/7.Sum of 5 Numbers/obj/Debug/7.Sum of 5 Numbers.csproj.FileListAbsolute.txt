@@ -1,0 +1,6 @@
+D:\WEB\C#\4.ConsoleInputOutput\7.Sum of 5 Numbers\bin\Debug\7.Sum of 5 Numbers.exe.config
+D:\WEB\C#\4.ConsoleInputOutput\7.Sum of 5 Numbers\bin\Debug\7.Sum of 5 Numbers.exe
+D:\WEB\C#\4.ConsoleInputOutput\7.Sum of 5 Numbers\bin\Debug\7.Sum of 5 Numbers.pdb
+D:\WEB\C#\4.ConsoleInputOutput\7.Sum of 5 Numbers\obj\Debug\7.Sum of 5 Numbers.exe
+D:\WEB\C#\4.ConsoleInputOutput\7.Sum of 5 Numbers\obj\Debug\7.Sum of 5 Numbers.pdb
+D:\WEB\C#\4.ConsoleInputOutput\7.Sum of 5 Numbers\obj\Debug\7.Sum of 5 Numbers.csprojResolveAssemblyReference.cache

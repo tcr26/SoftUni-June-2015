@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\8.10YrsOld\bin\Debug\8.10YrsOld.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\8.10YrsOld\bin\Debug\8.10YrsOld.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\8.10YrsOld\bin\Debug\8.10YrsOld.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\8.10YrsOld\obj\Debug\8.10YrsOld.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\8.10YrsOld\obj\Debug\8.10YrsOld.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\8.10YrsOld\obj\Debug\8.10YrsOld.csprojResolveAssemblyReference.cache

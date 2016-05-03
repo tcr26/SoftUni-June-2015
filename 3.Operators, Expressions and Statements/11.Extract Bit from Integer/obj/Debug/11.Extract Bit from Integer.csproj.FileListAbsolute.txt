@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\11.Extract Bit from Integer\bin\Debug\11.Extract Bit from Integer.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\11.Extract Bit from Integer\bin\Debug\11.Extract Bit from Integer.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\11.Extract Bit from Integer\bin\Debug\11.Extract Bit from Integer.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\11.Extract Bit from Integer\obj\Debug\11.Extract Bit from Integer.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements\11.Extract Bit from Integer\obj\Debug\11.Extract Bit from Integer.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\11.Extract Bit from Integer\obj\Debug\11.Extract Bit from Integer.pdb

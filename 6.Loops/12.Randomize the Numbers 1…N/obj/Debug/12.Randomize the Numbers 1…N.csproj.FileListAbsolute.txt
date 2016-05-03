@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\12.Randomize the Numbers 1…N\bin\Debug\12.Randomize the Numbers 1…N.exe.config
+D:\WEB\C#\6.Loops\12.Randomize the Numbers 1…N\bin\Debug\12.Randomize the Numbers 1…N.exe
+D:\WEB\C#\6.Loops\12.Randomize the Numbers 1…N\bin\Debug\12.Randomize the Numbers 1…N.pdb
+D:\WEB\C#\6.Loops\12.Randomize the Numbers 1…N\obj\Debug\12.Randomize the Numbers 1…N.csprojResolveAssemblyReference.cache
+D:\WEB\C#\6.Loops\12.Randomize the Numbers 1…N\obj\Debug\12.Randomize the Numbers 1…N.exe
+D:\WEB\C#\6.Loops\12.Randomize the Numbers 1…N\obj\Debug\12.Randomize the Numbers 1…N.pdb

@@ -1,0 +1,5 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\8.p-th Bit\bin\Debug\8.p-th Bit.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\8.p-th Bit\bin\Debug\8.p-th Bit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\8.p-th Bit\bin\Debug\8.p-th Bit.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\8.p-th Bit\obj\Debug\8.p-th Bit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\8.p-th Bit\obj\Debug\8.p-th Bit.pdb

@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\1.Average\bin\Debug\1.Average.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\1.Average\bin\Debug\1.Average.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\1.Average\bin\Debug\1.Average.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\1.Average\obj\Debug\1.Average.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\1.Average\obj\Debug\1.Average.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\1.Average\obj\Debug\1.Average.pdb

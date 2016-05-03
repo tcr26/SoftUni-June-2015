@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\PointyTriangle\bin\Debug\PointyTriangle.exe.config
+D:\WEB\C#\6.Loops\PointyTriangle\bin\Debug\PointyTriangle.exe
+D:\WEB\C#\6.Loops\PointyTriangle\bin\Debug\PointyTriangle.pdb
+D:\WEB\C#\6.Loops\PointyTriangle\obj\Debug\PointyTriangle.exe
+D:\WEB\C#\6.Loops\PointyTriangle\obj\Debug\PointyTriangle.pdb
+D:\WEB\C#\6.Loops\PointyTriangle\obj\Debug\PointyTriangle.csprojResolveAssemblyReference.cache

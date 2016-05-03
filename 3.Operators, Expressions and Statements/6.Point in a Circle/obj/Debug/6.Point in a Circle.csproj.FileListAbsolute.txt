@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\6.Point in a Circle\bin\Debug\6.Point in a Circle.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\6.Point in a Circle\obj\Debug\6.Point in a Circle.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements\6.Point in a Circle\bin\Debug\6.Point in a Circle.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\6.Point in a Circle\bin\Debug\6.Point in a Circle.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\6.Point in a Circle\obj\Debug\6.Point in a Circle.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\6.Point in a Circle\obj\Debug\6.Point in a Circle.pdb

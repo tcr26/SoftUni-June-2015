@@ -1,0 +1,6 @@
+D:\WEB\C#\Exam\2.Half Sum\bin\Debug\Half_Sum.exe.config
+D:\WEB\C#\Exam\2.Half Sum\bin\Debug\Half_Sum.exe
+D:\WEB\C#\Exam\2.Half Sum\bin\Debug\Half_Sum.pdb
+D:\WEB\C#\Exam\2.Half Sum\obj\Debug\2.Half Sum.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Exam\2.Half Sum\obj\Debug\Half_Sum.exe
+D:\WEB\C#\Exam\2.Half Sum\obj\Debug\Half_Sum.pdb

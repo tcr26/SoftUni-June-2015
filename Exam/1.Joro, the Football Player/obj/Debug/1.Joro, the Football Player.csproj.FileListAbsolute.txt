@@ -1,0 +1,5 @@
+D:\WEB\C#\Exam\1.Joro, the Football Player\bin\Debug\Joro__the_Football_Player.exe.config
+D:\WEB\C#\Exam\1.Joro, the Football Player\bin\Debug\Joro__the_Football_Player.exe
+D:\WEB\C#\Exam\1.Joro, the Football Player\bin\Debug\Joro__the_Football_Player.pdb
+D:\WEB\C#\Exam\1.Joro, the Football Player\obj\Debug\Joro__the_Football_Player.exe
+D:\WEB\C#\Exam\1.Joro, the Football Player\obj\Debug\Joro__the_Football_Player.pdb

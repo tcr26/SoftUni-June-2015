@@ -1,0 +1,3 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\14.Bits Exchange\bin\Debug\14.Bits Exchange.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\14.Bits Exchange\obj\Debug\14.Bits Exchange.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\14.Bits Exchange\obj\Debug\14.Bits Exchange.pdb

@@ -1,0 +1,9 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\4.PrintNumbers\bin\Debug\ConsoleApplication1.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\4.PrintNumbers\obj\Debug\ConsoleApplication1.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\4.PrintNumbers\obj\Debug\ConsoleApplication1.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\4.PrintNumbers\bin\Debug\ConsoleApplication1.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\4.PrintNumbers\bin\Debug\ConsoleApplication1.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\4.PrintNumbers\obj\Debug\3.PrintNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\WEB\C#\Exam\5.Bits Inverter\bin\Release\5.Bits Inverter.exe.config
+D:\WEB\C#\Exam\5.Bits Inverter\bin\Release\5.Bits Inverter.exe
+D:\WEB\C#\Exam\5.Bits Inverter\bin\Release\5.Bits Inverter.pdb
+D:\WEB\C#\Exam\5.Bits Inverter\obj\Release\5.Bits Inverter.exe
+D:\WEB\C#\Exam\5.Bits Inverter\obj\Release\5.Bits Inverter.pdb

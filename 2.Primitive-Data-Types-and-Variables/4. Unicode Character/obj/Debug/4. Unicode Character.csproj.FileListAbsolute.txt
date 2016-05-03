@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\4. Unicode Character.csprojResolveAssemblyReference.cache
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.pdb

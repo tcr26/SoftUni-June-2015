@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\2.Gravitation on the Moon\bin\Debug\2.Gravitation on the Moon.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\2.Gravitation on the Moon\bin\Debug\2.Gravitation on the Moon.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\2.Gravitation on the Moon\bin\Debug\2.Gravitation on the Moon.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\2.Gravitation on the Moon\obj\Debug\2.Gravitation on the Moon.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements\2.Gravitation on the Moon\obj\Debug\2.Gravitation on the Moon.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\2.Gravitation on the Moon\obj\Debug\2.Gravitation on the Moon.pdb

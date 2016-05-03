@@ -1,0 +1,5 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\2.Trapezoid\bin\Debug\2.Trapezoid.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\2.Trapezoid\bin\Debug\2.Trapezoid.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\2.Trapezoid\bin\Debug\2.Trapezoid.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\2.Trapezoid\obj\Debug\2.Trapezoid.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\2.Trapezoid\obj\Debug\2.Trapezoid.pdb

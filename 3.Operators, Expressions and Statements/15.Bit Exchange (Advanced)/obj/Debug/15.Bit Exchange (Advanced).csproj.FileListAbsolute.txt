@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\15.Bit Exchange (Advanced)\bin\Debug\15.Bit Exchange (Advanced).exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\15.Bit Exchange (Advanced)\bin\Debug\15.Bit Exchange (Advanced).exe
+D:\WEB\C#\3.Operators, Expressions and Statements\15.Bit Exchange (Advanced)\bin\Debug\15.Bit Exchange (Advanced).pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\15.Bit Exchange (Advanced)\obj\Debug\15.Bit Exchange (Advanced).csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements\15.Bit Exchange (Advanced)\obj\Debug\15.Bit Exchange (Advanced).exe
+D:\WEB\C#\3.Operators, Expressions and Statements\15.Bit Exchange (Advanced)\obj\Debug\15.Bit Exchange (Advanced).pdb

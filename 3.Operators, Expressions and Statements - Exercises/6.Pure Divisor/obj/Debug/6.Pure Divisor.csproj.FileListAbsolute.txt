@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\6.Pure Divisor\bin\Debug\6.Pure Divisor.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\6.Pure Divisor\bin\Debug\6.Pure Divisor.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\6.Pure Divisor\bin\Debug\6.Pure Divisor.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\6.Pure Divisor\obj\Debug\6.Pure Divisor.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\6.Pure Divisor\obj\Debug\6.Pure Divisor.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\6.Pure Divisor\obj\Debug\6.Pure Divisor.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\1.Odd or Even\bin\Debug\1.Odd or Even.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\1.Odd or Even\obj\Debug\1.Odd or Even.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements\1.Odd or Even\bin\Debug\1.Odd or Even.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\1.Odd or Even\bin\Debug\1.Odd or Even.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\1.Odd or Even\obj\Debug\1.Odd or Even.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\1.Odd or Even\obj\Debug\1.Odd or Even.pdb

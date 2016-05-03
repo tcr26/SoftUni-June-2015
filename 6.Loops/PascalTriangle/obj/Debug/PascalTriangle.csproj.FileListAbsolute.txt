@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\WEB\C#\6.Loops\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\WEB\C#\6.Loops\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\WEB\C#\6.Loops\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\WEB\C#\6.Loops\PascalTriangle\obj\Debug\PascalTriangle.pdb
+D:\WEB\C#\6.Loops\PascalTriangle\obj\Debug\PascalTriangle.csprojResolveAssemblyReference.cache

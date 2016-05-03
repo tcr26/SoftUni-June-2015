@@ -1,0 +1,8 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\6.Strings and Objects\bin\Debug\6.Strings and Objects.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\6.Strings and Objects\bin\Debug\6.Strings and Objects.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\6.Strings and Objects\bin\Debug\6.Strings and Objects.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\6.Strings and Objects\obj\Debug\6.Strings and Objects.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\6.Strings and Objects\obj\Debug\6.Strings and Objects.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\6.Strings and Objects\bin\Debug\6.Strings and Objects.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\6.Strings and Objects\obj\Debug\6.Strings and Objects.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\6.Strings and Objects\obj\Debug\6.Strings and Objects.pdb

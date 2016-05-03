@@ -1,0 +1,13 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\1.Declare Variables\bin\Debug\ConsoleApplication2.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\1.Declare Variables\obj\Debug\ConsoleApplication2.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\1.Declare Variables\obj\Debug\ConsoleApplication2.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\1.Declare Variables\bin\Debug\ConsoleApplication2.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\1.Declare Variables\bin\Debug\ConsoleApplication2.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\1.Declare Variables\bin\Debug\ConsoleApplication2.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\1.Declare Variables\obj\Debug\ConsoleApplication2.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\1.Declare Variables\obj\Debug\ConsoleApplication2.pdb

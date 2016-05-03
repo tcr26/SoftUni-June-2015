@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\8.Catalan Numbers\bin\Debug\8.Catalan Numbers.exe.config
+D:\WEB\C#\6.Loops\8.Catalan Numbers\obj\Debug\8.Catalan Numbers.csprojResolveAssemblyReference.cache
+D:\WEB\C#\6.Loops\8.Catalan Numbers\bin\Debug\8.Catalan Numbers.exe
+D:\WEB\C#\6.Loops\8.Catalan Numbers\bin\Debug\8.Catalan Numbers.pdb
+D:\WEB\C#\6.Loops\8.Catalan Numbers\obj\Debug\8.Catalan Numbers.exe
+D:\WEB\C#\6.Loops\8.Catalan Numbers\obj\Debug\8.Catalan Numbers.pdb

@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\7.First Bit\bin\Debug\7.First Bit.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\7.First Bit\bin\Debug\7.First Bit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\7.First Bit\bin\Debug\7.First Bit.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\7.First Bit\obj\Debug\7.First Bit.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\7.First Bit\obj\Debug\7.First Bit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\7.First Bit\obj\Debug\7.First Bit.pdb

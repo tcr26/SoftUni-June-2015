@@ -1,0 +1,5 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\3.Devidedby5and7\bin\Debug\3.Devidedby5and7.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\3.Devidedby5and7\bin\Debug\3.Devidedby5and7.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\3.Devidedby5and7\bin\Debug\3.Devidedby5and7.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\3.Devidedby5and7\obj\Debug\3.Devidedby5and7.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\3.Devidedby5and7\obj\Debug\3.Devidedby5and7.pdb

@@ -1,0 +1,6 @@
+D:\WEB\C#\5.Conditional-Statements\10.Beer Time\bin\Debug\10.Beer Time.exe.config
+D:\WEB\C#\5.Conditional-Statements\10.Beer Time\bin\Debug\10.Beer Time.exe
+D:\WEB\C#\5.Conditional-Statements\10.Beer Time\bin\Debug\10.Beer Time.pdb
+D:\WEB\C#\5.Conditional-Statements\10.Beer Time\obj\Debug\10.Beer Time.csprojResolveAssemblyReference.cache
+D:\WEB\C#\5.Conditional-Statements\10.Beer Time\obj\Debug\10.Beer Time.exe
+D:\WEB\C#\5.Conditional-Statements\10.Beer Time\obj\Debug\10.Beer Time.pdb

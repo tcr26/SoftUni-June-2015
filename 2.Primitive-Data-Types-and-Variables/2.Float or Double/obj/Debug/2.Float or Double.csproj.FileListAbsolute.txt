@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\2.Float or Double\bin\Debug\Float or Double.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\2.Float or Double\obj\Debug\Float or Double.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\2.Float or Double\obj\Debug\Float or Double.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\2.Float or Double\bin\Debug\Float or Double.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\2.Float or Double\obj\Debug\Float or Double.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\2.Float or Double\obj\Debug\Float or Double.pdb

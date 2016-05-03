@@ -1,0 +1,6 @@
+D:\WEB\C#\5.Conditional-Statements\3.Check for a Play Card\bin\Debug\3.Check for a Play Card.exe.config
+D:\WEB\C#\5.Conditional-Statements\3.Check for a Play Card\bin\Debug\3.Check for a Play Card.exe
+D:\WEB\C#\5.Conditional-Statements\3.Check for a Play Card\bin\Debug\3.Check for a Play Card.pdb
+D:\WEB\C#\5.Conditional-Statements\3.Check for a Play Card\obj\Debug\3.Check for a Play Card.csprojResolveAssemblyReference.cache
+D:\WEB\C#\5.Conditional-Statements\3.Check for a Play Card\obj\Debug\3.Check for a Play Card.exe
+D:\WEB\C#\5.Conditional-Statements\3.Check for a Play Card\obj\Debug\3.Check for a Play Card.pdb

@@ -1,0 +1,5 @@
+D:\WEB\C#\6.Loops\5.Calculate 1 + 1!X + 2!X2 + N!XN\bin\Debug\5.Calculate 1 + 1!X + 2!X2 + N!XN.exe.config
+D:\WEB\C#\6.Loops\5.Calculate 1 + 1!X + 2!X2 + N!XN\bin\Debug\5.Calculate 1 + 1!X + 2!X2 + N!XN.exe
+D:\WEB\C#\6.Loops\5.Calculate 1 + 1!X + 2!X2 + N!XN\bin\Debug\5.Calculate 1 + 1!X + 2!X2 + N!XN.pdb
+D:\WEB\C#\6.Loops\5.Calculate 1 + 1!X + 2!X2 + N!XN\obj\Debug\5.Calculate 1 + 1!X + 2!X2 + N!XN.exe
+D:\WEB\C#\6.Loops\5.Calculate 1 + 1!X + 2!X2 + N!XN\obj\Debug\5.Calculate 1 + 1!X + 2!X2 + N!XN.pdb

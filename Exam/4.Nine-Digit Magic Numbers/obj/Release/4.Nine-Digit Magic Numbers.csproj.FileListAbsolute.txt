@@ -1,0 +1,6 @@
+D:\WEB\C#\Exam\4.Nine-Digit Magic Numbers\bin\Release\4.Nine-Digit Magic Numbers.exe.config
+D:\WEB\C#\Exam\4.Nine-Digit Magic Numbers\bin\Release\4.Nine-Digit Magic Numbers.exe
+D:\WEB\C#\Exam\4.Nine-Digit Magic Numbers\bin\Release\4.Nine-Digit Magic Numbers.pdb
+D:\WEB\C#\Exam\4.Nine-Digit Magic Numbers\obj\Release\4.Nine-Digit Magic Numbers.csprojResolveAssemblyReference.cache
+D:\WEB\C#\Exam\4.Nine-Digit Magic Numbers\obj\Release\4.Nine-Digit Magic Numbers.exe
+D:\WEB\C#\Exam\4.Nine-Digit Magic Numbers\obj\Release\4.Nine-Digit Magic Numbers.pdb

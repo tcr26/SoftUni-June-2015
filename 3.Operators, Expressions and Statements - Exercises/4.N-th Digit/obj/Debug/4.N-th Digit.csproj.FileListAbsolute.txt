@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\4.N-th Digit\bin\Debug\4.N-th Digit.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\4.N-th Digit\bin\Debug\4.N-th Digit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\4.N-th Digit\bin\Debug\4.N-th Digit.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\4.N-th Digit\obj\Debug\4.N-th Digit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\4.N-th Digit\obj\Debug\4.N-th Digit.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\4.N-th Digit\obj\Debug\4.N-th Digit.csprojResolveAssemblyReference.cache

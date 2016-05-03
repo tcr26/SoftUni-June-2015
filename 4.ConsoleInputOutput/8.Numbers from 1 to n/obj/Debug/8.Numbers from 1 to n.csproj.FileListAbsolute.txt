@@ -1,0 +1,5 @@
+D:\WEB\C#\4.ConsoleInputOutput\8.Numbers from 1 to n\bin\Debug\8.Numbers from 1 to n.exe.config
+D:\WEB\C#\4.ConsoleInputOutput\8.Numbers from 1 to n\bin\Debug\8.Numbers from 1 to n.exe
+D:\WEB\C#\4.ConsoleInputOutput\8.Numbers from 1 to n\bin\Debug\8.Numbers from 1 to n.pdb
+D:\WEB\C#\4.ConsoleInputOutput\8.Numbers from 1 to n\obj\Debug\8.Numbers from 1 to n.exe
+D:\WEB\C#\4.ConsoleInputOutput\8.Numbers from 1 to n\obj\Debug\8.Numbers from 1 to n.pdb

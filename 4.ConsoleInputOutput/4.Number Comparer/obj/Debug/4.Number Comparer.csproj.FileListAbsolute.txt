@@ -1,0 +1,6 @@
+D:\WEB\C#\4.ConsoleInputOutput\4.Number Comparer\bin\Debug\4.Number Comparer.exe.config
+D:\WEB\C#\4.ConsoleInputOutput\4.Number Comparer\bin\Debug\4.Number Comparer.exe
+D:\WEB\C#\4.ConsoleInputOutput\4.Number Comparer\bin\Debug\4.Number Comparer.pdb
+D:\WEB\C#\4.ConsoleInputOutput\4.Number Comparer\obj\Debug\4.Number Comparer.csprojResolveAssemblyReference.cache
+D:\WEB\C#\4.ConsoleInputOutput\4.Number Comparer\obj\Debug\4.Number Comparer.exe
+D:\WEB\C#\4.ConsoleInputOutput\4.Number Comparer\obj\Debug\4.Number Comparer.pdb

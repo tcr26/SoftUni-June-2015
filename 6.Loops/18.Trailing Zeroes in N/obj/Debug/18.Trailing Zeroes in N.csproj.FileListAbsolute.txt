@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\18.Trailing Zeroes in N\bin\Debug\18.Trailing Zeroes in N.exe.config
+D:\WEB\C#\6.Loops\18.Trailing Zeroes in N\obj\Debug\18.Trailing Zeroes in N.csprojResolveAssemblyReference.cache
+D:\WEB\C#\6.Loops\18.Trailing Zeroes in N\bin\Debug\18.Trailing Zeroes in N.exe
+D:\WEB\C#\6.Loops\18.Trailing Zeroes in N\bin\Debug\18.Trailing Zeroes in N.pdb
+D:\WEB\C#\6.Loops\18.Trailing Zeroes in N\obj\Debug\18.Trailing Zeroes in N.exe
+D:\WEB\C#\6.Loops\18.Trailing Zeroes in N\obj\Debug\18.Trailing Zeroes in N.pdb

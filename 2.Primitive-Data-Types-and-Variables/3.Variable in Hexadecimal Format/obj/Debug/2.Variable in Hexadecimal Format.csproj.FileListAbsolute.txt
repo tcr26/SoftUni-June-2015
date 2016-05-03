@@ -1,0 +1,1 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\2.Variable in Hexadecimal Format\bin\Debug\2.Variable in Hexadecimal Format.exe.config

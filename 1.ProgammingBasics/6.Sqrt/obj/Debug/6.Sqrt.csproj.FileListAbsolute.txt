@@ -1,0 +1,5 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\6.Sqrt\bin\Debug\6.Sqrt.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\6.Sqrt\bin\Debug\6.Sqrt.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\6.Sqrt\bin\Debug\6.Sqrt.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\6.Sqrt\obj\Debug\6.Sqrt.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\6.Sqrt\obj\Debug\6.Sqrt.pdb

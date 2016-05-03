@@ -1,0 +1,10 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.pdb

@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\5.Big and Odd\bin\Debug\5.Big and Odd.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\5.Big and Odd\bin\Debug\5.Big and Odd.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\5.Big and Odd\bin\Debug\5.Big and Odd.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\5.Big and Odd\obj\Debug\5.Big and Odd.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\5.Big and Odd\obj\Debug\5.Big and Odd.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\5.Big and Odd\obj\Debug\5.Big and Odd.pdb

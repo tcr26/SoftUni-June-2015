@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\10.Tri-bit Switch\bin\Debug\10.Tri-bit Switch.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\10.Tri-bit Switch\bin\Debug\10.Tri-bit Switch.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\10.Tri-bit Switch\bin\Debug\10.Tri-bit Switch.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\10.Tri-bit Switch\obj\Debug\10.Tri-bit Switch.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\10.Tri-bit Switch\obj\Debug\10.Tri-bit Switch.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\10.Tri-bit Switch\obj\Debug\10.Tri-bit Switch.csprojResolveAssemblyReference.cache

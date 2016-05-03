@@ -1,0 +1,3 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\ReFormatCode\bin\Debug\ReFormatCode.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\ReFormatCode\obj\Debug\ReFormatCode.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\ReFormatCode\obj\Debug\ReFormatCode.pdb

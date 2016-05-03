@@ -1,0 +1,3 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\16.Tests\bin\Debug\16.Tests.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\16.Tests\obj\Debug\16.Tests.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\16.Tests\obj\Debug\16.Tests.pdb

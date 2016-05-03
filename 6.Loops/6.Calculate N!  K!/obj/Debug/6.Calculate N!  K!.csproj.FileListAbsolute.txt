@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\6.Calculate N!  K!\bin\Debug\6.Calculate N!  K!.exe.config
+D:\WEB\C#\6.Loops\6.Calculate N!  K!\bin\Debug\6.Calculate N!  K!.exe
+D:\WEB\C#\6.Loops\6.Calculate N!  K!\bin\Debug\6.Calculate N!  K!.pdb
+D:\WEB\C#\6.Loops\6.Calculate N!  K!\obj\Debug\6.Calculate N!  K!.exe
+D:\WEB\C#\6.Loops\6.Calculate N!  K!\obj\Debug\6.Calculate N!  K!.pdb
+D:\WEB\C#\6.Loops\6.Calculate N!  K!\obj\Debug\6.Calculate N!  K!.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\17.Calculate GCD\bin\Debug\17.Calculate GCD.exe.config
+D:\WEB\C#\6.Loops\17.Calculate GCD\bin\Debug\17.Calculate GCD.exe
+D:\WEB\C#\6.Loops\17.Calculate GCD\bin\Debug\17.Calculate GCD.pdb
+D:\WEB\C#\6.Loops\17.Calculate GCD\obj\Debug\17.Calculate GCD.csprojResolveAssemblyReference.cache
+D:\WEB\C#\6.Loops\17.Calculate GCD\obj\Debug\17.Calculate GCD.exe
+D:\WEB\C#\6.Loops\17.Calculate GCD\obj\Debug\17.Calculate GCD.pdb

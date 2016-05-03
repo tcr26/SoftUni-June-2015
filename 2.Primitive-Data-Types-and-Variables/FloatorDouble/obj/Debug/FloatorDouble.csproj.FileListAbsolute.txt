@@ -1,0 +1,8 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\FloatorDouble\bin\Debug\FloatorDouble.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\FloatorDouble\bin\Debug\FloatorDouble.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\FloatorDouble\bin\Debug\FloatorDouble.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\FloatorDouble\obj\Debug\FloatorDouble.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\FloatorDouble\obj\Debug\FloatorDouble.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\FloatorDouble\bin\Debug\FloatorDouble.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\FloatorDouble\obj\Debug\FloatorDouble.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\FloatorDouble\obj\Debug\FloatorDouble.pdb

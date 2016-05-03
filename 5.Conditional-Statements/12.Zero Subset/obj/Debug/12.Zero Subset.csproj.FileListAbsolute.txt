@@ -1,0 +1,6 @@
+D:\WEB\C#\5.Conditional-Statements\12.Zero Subset\bin\Debug\12.Zero Subset.exe.config
+D:\WEB\C#\5.Conditional-Statements\12.Zero Subset\bin\Debug\12.Zero Subset.exe
+D:\WEB\C#\5.Conditional-Statements\12.Zero Subset\bin\Debug\12.Zero Subset.pdb
+D:\WEB\C#\5.Conditional-Statements\12.Zero Subset\obj\Debug\12.Zero Subset.csprojResolveAssemblyReference.cache
+D:\WEB\C#\5.Conditional-Statements\12.Zero Subset\obj\Debug\12.Zero Subset.exe
+D:\WEB\C#\5.Conditional-Statements\12.Zero Subset\obj\Debug\12.Zero Subset.pdb

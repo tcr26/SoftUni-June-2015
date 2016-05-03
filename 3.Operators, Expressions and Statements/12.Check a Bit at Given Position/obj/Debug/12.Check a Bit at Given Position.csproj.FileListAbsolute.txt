@@ -1,0 +1,5 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\12.Check a Bit at Given Position\bin\Debug\12.Check a Bit at Given Position.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\12.Check a Bit at Given Position\bin\Debug\12.Check a Bit at Given Position.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\12.Check a Bit at Given Position\bin\Debug\12.Check a Bit at Given Position.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\12.Check a Bit at Given Position\obj\Debug\12.Check a Bit at Given Position.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\12.Check a Bit at Given Position\obj\Debug\12.Check a Bit at Given Position.pdb

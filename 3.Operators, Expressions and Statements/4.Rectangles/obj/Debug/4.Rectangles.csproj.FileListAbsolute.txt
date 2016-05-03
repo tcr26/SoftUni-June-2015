@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\4.Rectangles\bin\Debug\4.Rectangles.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\4.Rectangles\bin\Debug\4.Rectangles.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\4.Rectangles\obj\Debug\4.Rectangles.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements\4.Rectangles\obj\Debug\4.Rectangles.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\4.Rectangles\obj\Debug\4.Rectangles.pdb

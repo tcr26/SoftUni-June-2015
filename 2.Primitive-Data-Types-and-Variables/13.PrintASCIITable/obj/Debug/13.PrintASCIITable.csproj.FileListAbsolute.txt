@@ -1,0 +1,11 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\13.PrintASCIITable\bin\Debug\13.PrintASCIITable.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\13.PrintASCIITable\bin\Debug\13.PrintASCIITable.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\13.PrintASCIITable\bin\Debug\13.PrintASCIITable.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\13.PrintASCIITable\obj\Debug\13.PrintASCIITable.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\13.PrintASCIITable\obj\Debug\13.PrintASCIITable.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\13.PrintASCIITable\bin\Debug\13.PrintASCIITable.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\13.PrintASCIITable\obj\Debug\13.PrintASCIITable.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\13.PrintASCIITable\obj\Debug\13.PrintASCIITable.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\13.PrintASCIITable\bin\Debug\13.PrintASCIITable.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\13.PrintASCIITable\bin\Debug\13.PrintASCIITable.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\13.PrintASCIITable\obj\Debug\13.PrintASCIITable.csprojResolveAssemblyReference.cache

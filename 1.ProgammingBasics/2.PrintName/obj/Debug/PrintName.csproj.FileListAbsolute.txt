@@ -1,0 +1,5 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\PrintName\bin\Debug\PrintName.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\PrintName\bin\Debug\PrintName.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\PrintName\bin\Debug\PrintName.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\PrintName\obj\Debug\PrintName.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\PrintName\obj\Debug\PrintName.pdb

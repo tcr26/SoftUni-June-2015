@@ -1,0 +1,8 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\4. Unicode Character\obj\Debug\_4.Unicode_Character.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\4. Unicode Character\bin\Debug\_4.Unicode_Character.pdb

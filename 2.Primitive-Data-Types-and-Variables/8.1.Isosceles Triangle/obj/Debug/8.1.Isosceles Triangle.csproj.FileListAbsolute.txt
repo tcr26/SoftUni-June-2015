@@ -1,0 +1,9 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\8.1.Isosceles Triangle\bin\Debug\10.Employee Data.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\8.1.Isosceles Triangle\obj\Debug\10.Employee Data.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\8.1.Isosceles Triangle\obj\Debug\10.Employee Data.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\8.1.Isosceles Triangle\bin\Debug\10.Employee Data.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\8.1.Isosceles Triangle\bin\Debug\10.Employee Data.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\8.1.Isosceles Triangle\obj\Debug\8.1.Isosceles Triangle.csprojResolveAssemblyReference.cache
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\8.1.Isosceles Triangle\bin\Debug\10.Employee Data.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\8.1.Isosceles Triangle\obj\Debug\10.Employee Data.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\8.1.Isosceles Triangle\obj\Debug\10.Employee Data.pdb

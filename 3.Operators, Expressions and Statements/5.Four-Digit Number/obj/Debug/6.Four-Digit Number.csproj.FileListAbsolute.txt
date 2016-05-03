@@ -1,0 +1,5 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\5.Four-Digit Number\bin\Debug\5.Four-Digit Number.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\5.Four-Digit Number\obj\Debug\5.Four-Digit Number.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\5.Four-Digit Number\obj\Debug\5.Four-Digit Number.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\5.Four-Digit Number\bin\Debug\5.Four-Digit Number.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\5.Four-Digit Number\bin\Debug\5.Four-Digit Number.pdb

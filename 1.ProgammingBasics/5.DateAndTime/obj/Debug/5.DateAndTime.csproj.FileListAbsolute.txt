@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\5.DateAndTime\bin\Debug\5.DateAndTime.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\5.DateAndTime\bin\Debug\5.DateAndTime.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\5.DateAndTime\bin\Debug\5.DateAndTime.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\5.DateAndTime\obj\Debug\5.DateAndTime.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\5.DateAndTime\obj\Debug\5.DateAndTime.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\5.DateAndTime\obj\Debug\5.DateAndTime.csprojResolveAssemblyReference.cache

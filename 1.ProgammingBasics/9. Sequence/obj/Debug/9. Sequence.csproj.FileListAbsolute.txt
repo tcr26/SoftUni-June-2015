@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\9. Sequence\bin\Debug\_9.Sequence.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\9. Sequence\bin\Debug\_9.Sequence.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\9. Sequence\bin\Debug\_9.Sequence.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\9. Sequence\obj\Debug\9. Sequence.csprojResolveAssemblyReference.cache
+D:\WEB\C#\HomeWork - ProgammingBasics\9. Sequence\obj\Debug\_9.Sequence.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\9. Sequence\obj\Debug\_9.Sequence.pdb

@@ -1,0 +1,12 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.csprojResolveAssemblyReference.cache
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.csprojResolveAssemblyReference.cache

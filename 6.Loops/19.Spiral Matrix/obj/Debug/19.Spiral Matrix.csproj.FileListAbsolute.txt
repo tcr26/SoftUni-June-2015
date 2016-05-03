@@ -1,0 +1,5 @@
+D:\WEB\C#\6.Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe.config
+D:\WEB\C#\6.Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe
+D:\WEB\C#\6.Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.pdb
+D:\WEB\C#\6.Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.exe
+D:\WEB\C#\6.Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.pdb

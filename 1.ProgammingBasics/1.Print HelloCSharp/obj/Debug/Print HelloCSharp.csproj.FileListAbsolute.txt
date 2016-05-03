@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\Print HelloCSharp\bin\Debug\Print HelloCSharp.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\Print HelloCSharp\bin\Debug\Print HelloCSharp.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\Print HelloCSharp\bin\Debug\Print HelloCSharp.pdb
+D:\WEB\C#\HomeWork - ProgammingBasics\Print HelloCSharp\obj\Debug\Print HelloCSharp.csprojResolveAssemblyReference.cache
+D:\WEB\C#\HomeWork - ProgammingBasics\Print HelloCSharp\obj\Debug\Print HelloCSharp.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\Print HelloCSharp\obj\Debug\Print HelloCSharp.pdb

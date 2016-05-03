@@ -1,0 +1,6 @@
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\3.Last Digit\bin\Debug\3.Last Digit.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\3.Last Digit\bin\Debug\3.Last Digit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\3.Last Digit\bin\Debug\3.Last Digit.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\3.Last Digit\obj\Debug\3.Last Digit.csprojResolveAssemblyReference.cache
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\3.Last Digit\obj\Debug\3.Last Digit.exe
+D:\WEB\C#\3.Operators, Expressions and Statements - Exercises\3.Last Digit\obj\Debug\3.Last Digit.pdb

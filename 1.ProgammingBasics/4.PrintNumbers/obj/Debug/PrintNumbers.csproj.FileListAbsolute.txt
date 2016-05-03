@@ -1,0 +1,3 @@
+D:\WEB\C#\HomeWork - ProgammingBasics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\WEB\C#\HomeWork - ProgammingBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\WEB\C#\HomeWork - ProgammingBasics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

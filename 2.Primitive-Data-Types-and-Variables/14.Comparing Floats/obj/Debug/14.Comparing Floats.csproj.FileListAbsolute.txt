@@ -1,0 +1,12 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\14.Comparing Floats\bin\Debug\14.Comparing Floats.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\14.Comparing Floats\obj\Debug\14.Comparing Floats.csprojResolveAssemblyReference.cache
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\14.Comparing Floats\bin\Debug\14.Comparing Floats.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\14.Comparing Floats\bin\Debug\14.Comparing Floats.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\14.Comparing Floats\obj\Debug\14.Comparing Floats.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\14.Comparing Floats\obj\Debug\14.Comparing Floats.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\14.Comparing Floats\bin\Debug\14.Comparing Floats.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\14.Comparing Floats\obj\Debug\14.Comparing Floats.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\14.Comparing Floats\obj\Debug\14.Comparing Floats.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\14.Comparing Floats\bin\Debug\14.Comparing Floats.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\14.Comparing Floats\bin\Debug\14.Comparing Floats.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\14.Comparing Floats\obj\Debug\14.Comparing Floats.csprojResolveAssemblyReference.cache

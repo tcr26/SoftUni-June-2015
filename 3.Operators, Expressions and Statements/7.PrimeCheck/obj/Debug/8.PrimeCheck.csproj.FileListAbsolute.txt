@@ -1,0 +1,5 @@
+D:\WEB\C#\3.Operators, Expressions and Statements\7.PrimeCheck\bin\Debug\7.PrimeCheck.exe.config
+D:\WEB\C#\3.Operators, Expressions and Statements\7.PrimeCheck\obj\Debug\7.PrimeCheck.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\7.PrimeCheck\obj\Debug\7.PrimeCheck.pdb
+D:\WEB\C#\3.Operators, Expressions and Statements\7.PrimeCheck\bin\Debug\7.PrimeCheck.exe
+D:\WEB\C#\3.Operators, Expressions and Statements\7.PrimeCheck\bin\Debug\7.PrimeCheck.pdb

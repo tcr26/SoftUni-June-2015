@@ -1,0 +1,6 @@
+D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\bin\Debug\ConsoleApplication1.exe.config
+D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\bin\Debug\ConsoleApplication1.exe
+D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\bin\Debug\ConsoleApplication1.pdb
+D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.csprojResolveAssemblyReference.cache
+D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\ConsoleApplication1.exe
+D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\ConsoleApplication1.pdb

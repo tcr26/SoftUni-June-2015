@@ -1,0 +1,6 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\Float or Double\bin\Debug\Float or Double.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\Float or Double\bin\Debug\Float or Double.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\Float or Double\bin\Debug\Float or Double.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\Float or Double\obj\Debug\Float or Double.csprojResolveAssemblyReference.cache
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\Float or Double\obj\Debug\Float or Double.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\Float or Double\obj\Debug\Float or Double.pdb

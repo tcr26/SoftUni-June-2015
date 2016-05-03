@@ -1,0 +1,6 @@
+D:\WEB\C#\6.Loops\10.Odd and Even Product\bin\Debug\10.Odd and Even Product.exe.config
+D:\WEB\C#\6.Loops\10.Odd and Even Product\bin\Debug\10.Odd and Even Product.exe
+D:\WEB\C#\6.Loops\10.Odd and Even Product\bin\Debug\10.Odd and Even Product.pdb
+D:\WEB\C#\6.Loops\10.Odd and Even Product\obj\Debug\10.Odd and Even Product.csprojResolveAssemblyReference.cache
+D:\WEB\C#\6.Loops\10.Odd and Even Product\obj\Debug\10.Odd and Even Product.exe
+D:\WEB\C#\6.Loops\10.Odd and Even Product\obj\Debug\10.Odd and Even Product.pdb

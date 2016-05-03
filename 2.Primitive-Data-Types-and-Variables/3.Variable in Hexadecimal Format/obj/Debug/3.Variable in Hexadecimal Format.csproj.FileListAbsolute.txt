@@ -1,0 +1,13 @@
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\2.Variable in Hexadecimal Format\bin\Debug\2.Variable in Hexadecimal Format.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\bin\Debug\_2.Variable_in_Hexadecimal_Format.exe.config
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\obj\Debug\3.Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\bin\Debug\_2.Variable_in_Hexadecimal_Format.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\bin\Debug\_2.Variable_in_Hexadecimal_Format.pdb
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\obj\Debug\_2.Variable_in_Hexadecimal_Format.exe
+D:\WEB\C#\HomeWorkPrimitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\obj\Debug\_2.Variable_in_Hexadecimal_Format.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\bin\Debug\_2.Variable_in_Hexadecimal_Format.exe.config
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\obj\Debug\_2.Variable_in_Hexadecimal_Format.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\obj\Debug\_2.Variable_in_Hexadecimal_Format.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\bin\Debug\_2.Variable_in_Hexadecimal_Format.exe
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\bin\Debug\_2.Variable_in_Hexadecimal_Format.pdb
+D:\WEB\C#\2.Primitive-Data-Types-and-Variables\3.Variable in Hexadecimal Format\obj\Debug\3.Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
