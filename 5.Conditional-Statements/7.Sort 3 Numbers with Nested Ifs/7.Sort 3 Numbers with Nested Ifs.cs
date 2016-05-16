@@ -3,42 +3,51 @@ class Sort3NumberswithNestedIfs
 {
     static void Main()
     {
-        double a = double.Parse(Console.ReadLine());
-        double b = double.Parse(Console.ReadLine());
-        double c = double.Parse(Console.ReadLine());
+        Console.Write("Enter first number:");
+        double firstNumber = double.Parse(Console.ReadLine());
+        Console.Write("Enter second number:");
+        double secondNumber = double.Parse(Console.ReadLine());
+        Console.Write("Enter third number:");
+        double thirdNumber = double.Parse(Console.ReadLine());
 
-        if (a > b && a > c)
+        if (firstNumber == secondNumber && secondNumber == thirdNumber)
         {
-            if (b > c)
-            {
-                Console.WriteLine("{0} {1} {2}", a, b, c);
-            }
-            else
-            {
-                Console.WriteLine("{0} {1} {2}", a, c, b);
-            }
+            Console.WriteLine("Equal numbers");
         }
-        if (b > a && b > c)
+
+        else if (firstNumber == secondNumber && secondNumber == thirdNumber)
         {
-            if (a > c)
-            {
-                Console.WriteLine("{0} {1} {2}", b, a, c);
-            }
-            else
-            {
-                Console.WriteLine("{0} {1} {2}", b, c, a);
-            }
+            Console.WriteLine("The numbers are equal");
         }
-        if (c > a && c > b)
+        // A<B<C || A=B<C || A<B=C
+        else if (firstNumber <= secondNumber && secondNumber <= thirdNumber)
         {
-            if (a > b)
-            {
-                Console.WriteLine("{0} {1} {2}", c, a, b);
-            }
-            else
-            {
-                Console.WriteLine("{0} {1} {2}", c, b, a);
-            }
+            Console.WriteLine("{0}\n{1}\n{2}", thirdNumber, secondNumber, firstNumber);
+        }
+        // A<C<B || A=C<B || A<C=B
+        else if (firstNumber <= thirdNumber && thirdNumber <= secondNumber)
+        {
+            Console.WriteLine("{0}\n{1}\n{2}", secondNumber, thirdNumber, firstNumber);
+        }
+        // B<A<C || B=A<C || B<A=C
+        else if (secondNumber <= firstNumber && firstNumber <= thirdNumber)
+        {
+            Console.WriteLine("{0}\n{1}\n{2}", thirdNumber, firstNumber, secondNumber);
+        }
+        // B<C<A || B=C<A || B<C=A
+        else if (secondNumber <= thirdNumber && thirdNumber <= firstNumber)
+        {
+            Console.WriteLine("{0}\n{1}\n{2}", firstNumber, thirdNumber, secondNumber);
+        }
+        // C<A<B || C=A<B || C<A=B
+        else if (thirdNumber <= firstNumber && firstNumber <= secondNumber)
+        {
+            Console.WriteLine("{0}\n{1}\n{2}", secondNumber, firstNumber, thirdNumber);
+        }
+        // C<B<A || C=B<A || C<B=A
+        else if (thirdNumber <= secondNumber && secondNumber <= firstNumber)
+        {
+            Console.WriteLine("{0}\n{1}\n{2}", firstNumber, secondNumber, thirdNumber);
         }
         Main();
     }

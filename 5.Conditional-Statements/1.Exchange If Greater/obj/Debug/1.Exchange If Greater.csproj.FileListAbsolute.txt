@@ -4,3 +4,6 @@ D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\bin\Debug\ConsoleApplic
 D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\1.Exchange If Greater.csprojResolveAssemblyReference.cache
 D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\ConsoleApplication1.exe
 D:\WEB\C#\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\ConsoleApplication1.pdb
+C:\Users\inZt1nct\Documents\GitHub\SoftUni-June-2015\5.Conditional-Statements\1.Exchange If Greater\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\inZt1nct\Documents\GitHub\SoftUni-June-2015\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\ConsoleApplication1.exe
+C:\Users\inZt1nct\Documents\GitHub\SoftUni-June-2015\5.Conditional-Statements\1.Exchange If Greater\obj\Debug\ConsoleApplication1.pdb

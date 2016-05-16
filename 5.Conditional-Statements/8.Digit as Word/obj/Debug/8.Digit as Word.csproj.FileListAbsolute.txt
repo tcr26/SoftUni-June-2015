@@ -3,3 +3,6 @@ D:\WEB\C#\5.Conditional-Statements\8.Digit as Word\bin\Debug\8.Digit as Word.exe
 D:\WEB\C#\5.Conditional-Statements\8.Digit as Word\bin\Debug\8.Digit as Word.pdb
 D:\WEB\C#\5.Conditional-Statements\8.Digit as Word\obj\Debug\8.Digit as Word.exe
 D:\WEB\C#\5.Conditional-Statements\8.Digit as Word\obj\Debug\8.Digit as Word.pdb
+C:\Users\inZt1nct\Documents\GitHub\SoftUni-June-2015\5.Conditional-Statements\8.Digit as Word\bin\Debug\8.Digit as Word.exe.config
+C:\Users\inZt1nct\Documents\GitHub\SoftUni-June-2015\5.Conditional-Statements\8.Digit as Word\obj\Debug\8.Digit as Word.exe
+C:\Users\inZt1nct\Documents\GitHub\SoftUni-June-2015\5.Conditional-Statements\8.Digit as Word\obj\Debug\8.Digit as Word.pdb
